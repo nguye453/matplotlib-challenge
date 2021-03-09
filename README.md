@@ -1,5 +1,7 @@
 # Matplotlib Homework - The Power of Plots
 
+Due 3/13/21
+
 ## Background
 
 What good is data without a good plot to tell the story?
